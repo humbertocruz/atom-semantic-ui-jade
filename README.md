@@ -2,7 +2,7 @@
 
 Atom snippets for for the [Semantic UI](http://semantic-ui.com/) framework.
 
-Converted from the [package](https://github.com/idleberg/Semantic-UI) for HTML.
+Converted from the [Semantic UI Atom Package](https://github.com/idleberg/atom-semantic-ui) for HTML.
 
 ## Installation
 
