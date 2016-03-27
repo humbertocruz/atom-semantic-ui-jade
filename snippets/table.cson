@@ -1,4 +1,4 @@
-'.text.jade':
+'.source.jade':
   'ui-collapsing-table-segment':
     'prefix': 'ui-collapsing-table-segment'
     'body': '<table class="ui collapsing table segment">$1</table>'
