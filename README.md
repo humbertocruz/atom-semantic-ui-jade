@@ -1,25 +1,19 @@
-# Semantic UI for Atom
-
-[![apm](https://img.shields.io/apm/l/semantic-ui.svg?style=flat-square)](https://atom.io/packages/semantic-ui)
-[![apm](https://img.shields.io/apm/v/semantic-ui.svg?style=flat-square)](https://atom.io/packages/semantic-ui)
-[![apm](https://img.shields.io/apm/dm/semantic-ui.svg?style=flat-square)](https://atom.io/packages/semantic-ui)
-[![Travis](https://img.shields.io/travis/idleberg/atom-semantic-ui.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-semantic-ui)
-[![David](https://img.shields.io/david/dev/idleberg/atom-semantic-ui.svg?style=flat-square)](https://david-dm.org/idleberg/atom-semantic-ui#info=devDependencies)
+# Semantic UI for Atom in Jade
 
 Atom snippets for for the [Semantic UI](http://semantic-ui.com/) framework.
 
-Converted from the [package](https://github.com/idleberg/Semantic-UI-Sublime-Text) for Sublime Text.
+Converted from the [package](https://github.com/idleberg/Semantic-UI) for HTML.
 
 ## Installation
 
 ### apm
 
-* Install package `apm install semantic-ui` (or use the GUI)
+* Install package `apm install semantic-ui-jade` (or use the GUI)
 
 ### GitHub
 
 1. Change directory `cd ~/.atom/packages/`
-2. Clone repository `git clone https://github.com/idleberg/atom-semantic-ui semantic-ui`
+2. Clone repository `git clone https://github.com/humbertocruz/atom-semantic-ui-jade semantic-ui-jade`
 
 ## Usage
 

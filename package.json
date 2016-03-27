@@ -1,18 +1,18 @@
 {
-  "name": "semantic-ui",
-  "version": "1.0.7",
-  "description": "Atom snippets for Semantic UI",
+  "name": "semantic-ui-jade",
+  "version": "1.0.0",
+  "description": "Atom snippets for Semantic UI in Jade",
   "author": {
-    "name": "Jan T. Sott",
-    "url": "http://github.com/idleberg"
+    "name": "Humberto Cruz",
+    "url": "http://github.com/humbertocruz"
   },
   "keywords": [
     "semantic ui",
-    "html"
+    "jade"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/idleberg/atom-semantic-ui"
+    "url": "https://github.com/humbertocruz/atom-semantic-ui-jade"
   },
   "license": "MIT",
   "engines": {
